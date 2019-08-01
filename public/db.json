@@ -17,24 +17,28 @@
         {
             "id": 2,
             "name": "The High Priestess",
-            "upright": ["creativity", "self-confidence", "dexterity","will-power", "skill"],
-            "reverse": ["delay", "unimaginative", "insecurity"]
+            "upright": ["knowledge", "wisdom", "learning", "intuition", "impatience", 
+                "virtue", "purity"],
+            "reverse": ["selfishness", "shallowness", "misunderstanding", "ignorance"]
             
         },
         {
             "id": 3,
             "name": "The Empress",
-            "upright": ["knowledge", "wisdom", "learning", "intuition", "impatience", 
-                "virtue", "purity"],
-            "reverse": ["selfishness", "shallowness", "misunderstanding", "ignorance"]
+            "upright": ["development", "accomplishment", "action", "evolution"],
+            "reverse": ["inaction", "vacillation", "anxiety", "infidelity"]
        },
        {
             "id": 4,
-            "name": "The Emperor"
+            "name": "The Emperor",
+            "upright": ["authority", "father-figure", "structure"],
+            "reverse": ["domination", "rigidity", "inflexibility"]
         },
         {
             "id": 5,
-            "name": "The Hierophant"
+            "name": "The Hierophant",
+            "upright": ["mercy", "conformity", "forgiveness", "bonded", "inspiration"],
+            "reverse": ["vulnerability", "unconventionality", "impotence", "frailty"]
        },
        {
             "id": 6,
