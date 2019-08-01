@@ -3,19 +3,30 @@
     "Major Arcana": [
         {
             "id":0,
-            "name":"The Fool"
+            "name":"The Fool",
+            "upright": ["beginnings", "possibilities", "pleasure", "thoughtlessness", 
+                "adventure", "opportunity"],
+            "reverse": ["indecision", "hesitation", "injustice", "apathy"]
         },
         {
              "id": 1,
-             "name": "The Magician"
+             "name": "The Magician",
+             "upright": ["creativity", "self-confidence", "dexterity","will-power", "skill"],
+            "reverse": ["delay", "unimaginative", "insecurity"]
         },
         {
             "id": 2,
-            "name": "The High Priestess"
+            "name": "The High Priestess",
+            "upright": ["creativity", "self-confidence", "dexterity","will-power", "skill"],
+            "reverse": ["delay", "unimaginative", "insecurity"]
+            
         },
         {
             "id": 3,
-            "name": "The Empress"
+            "name": "The Empress",
+            "upright": ["knowledge", "wisdom", "learning", "intuition", "impatience", 
+                "virtue", "purity"],
+            "reverse": ["selfishness", "shallowness", "misunderstanding", "ignorance"]
        },
        {
             "id": 4,
