@@ -42,15 +42,22 @@
        },
        {
             "id": 6,
-            "name": "The Lovers"
+            "name": "The Lovers",
+            "upright": ["harmony", "trust","romance", "optimism", "honor", "love", "harmony"],
+            "reverse": ["separation", "frustration", "unreliability","fickleness", "untrustworthy"]
         },
         {
             "id": 7,
-            "name": "The Chariot"
+            "name": "The Chariot",
+            "upright": ["perseverance", "turmoil", "vengeance", "adversity"],
+            "reverse": ["vanquishment", "defeat", "failure", "unsuccessful"]
        },
        {
             "id": 8,
-            "name": "Strength"
+            "name": "Strength",
+            "upright": ["courage", "conviction", "strength", "determination", 
+                "action", "heroism", "virility"],
+            "reverse": ["pettiness", "sickness","unfaithfulness", "weakness"]
         },
         {
             "id": 9,
