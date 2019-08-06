@@ -61,11 +61,16 @@
         },
         {
             "id": 9,
-            "name": "The Hermit"
+            "name": "The Hermit",
+            "upright": ["prudence", "withdrawal", "caution", "vigilance"],
+            "reverse": ["hastiness", "rashness","immaturity", "imprudence", "foolishness"]
        },
        {
             "id": 10,
-            "name": "The Wheel of Fortune"
+            "name": "The Wheel of Fortune",
+            "upright": ["advancement", "destiny", "fortune", "progress"],
+            "reverse": ["destiny", "fortune", "progress",
+                "interruption", "outside", "influences", "failure"]
         },
         {
             "id": 11,
